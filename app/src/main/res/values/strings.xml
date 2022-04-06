@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileUiDesign</string>
+    <string name="address">Address</string>
+    <string name="add_information">Add Information</string>
+    <string name="tashkent_city_amir_temur_street">Tashkent City Amir Temur street</string>
+    <string name="tuit_university_317_20_dif">Tuit university,317-20 Dif</string>
+    <string name="mobile">Mobile</string>
+    <string name="_998900446979">+998900446979</string>
+    <string name="abbosbekbotirjonovich_gmail_com">abbosbekbotirjonovich@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="abbosbek_ustaboyev">Abbosbek Ustaboyev</string>
+    <string name="pid_356hb456860">PID : 356Hb456860</string>
+</resources>
